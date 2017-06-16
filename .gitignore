@@ -1,0 +1,28 @@
+# Log file
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IntelliJ files
+.idea/
+/KelburnPostalService.iml
+*.iml
+
+# Eclipse config file
+/.project
+/.classpath
+
+# compiled output files
+bin/
+out/
+*.class
+
+/events.xml
+/locations.xml
+/mails.xml
+/routes.xml
+/staffs.xml
